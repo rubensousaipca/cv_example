@@ -85,3 +85,4 @@ function initNavbar() {
       $(this).parent('.cart-open').toggleClass('opened');
     }
   });
+}
